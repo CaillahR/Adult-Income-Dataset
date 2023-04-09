@@ -20,3 +20,17 @@ Data Dictionary :
 - hours-per-week: continuous.
 - native-country: People's native country
 ---
+![1](https://user-images.githubusercontent.com/121994185/230795789-994980be-6c4c-4780-a4df-d71c860404df.png)
+
+- This graph shows the workclasses that contribute more to capital gain
+---
+![2](https://user-images.githubusercontent.com/121994185/230795865-3b5d51b9-784f-4d67-ae23-092f205ea428.png)
+
+-This graph shows the workclasses that contribute more to capital loss
+---
+
+This model is atleast over 80% accurate
+---
+- This model will solve the problem of predicting the income for working class people in Canada.
+---
+- In my research I've found that using random forest is the best model to use for a project like this with over 90% accuracy.
