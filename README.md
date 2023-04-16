@@ -34,3 +34,9 @@ This model is atleast over 80% accurate
 - This model will solve the problem of predicting the income for working class people in Canada.
 ---
 - In my research I've found that using random forest is the best model to use for a project like this with over 90% accuracy.
+---
+Recommendation:
+
+--
+Any Questions?:
+contact info: caillahdreed@yahoo.com
