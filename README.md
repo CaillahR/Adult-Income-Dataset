@@ -1,5 +1,5 @@
 # Adult-Income-Dataset
- What is the income level of a person based on the individual’s personal information, in canada?
+ What is the income level of a person based on the individual’s personal information, in canada? How will this help predict income for marketing?
  ---
  - The source of this data set is from [Kaggle](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 ---
@@ -35,7 +35,7 @@ This model is atleast over 80% accurate
 ---
 - In my research I've found that using random forest is the best model to use for a project like this with over 90% accuracy.
 ---
-Recommendation:
+Recommendation: I recommend using the random forest model to predict which occupations have the highest income in order to price vacation packages correctly to hit your target audience. This information helps you pin point a group of common people and make them feel individually recognised and more likely to buy your product.
 
 --
 Any Questions?:
